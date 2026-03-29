@@ -28,7 +28,7 @@ Lab Reports
 Final Project
 | ชื่อ | ไฟล์ / ลิงก์ |
 |------|--------------|
-| Final Project Artifacts | View |
+| Final Project Artifacts | [View](https://github.com/tanadoncha-bit/The-Living-Existence-Network-LEN-Architecture) |
 
 ---
 
